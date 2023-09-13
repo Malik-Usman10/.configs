@@ -1,0 +1,15 @@
+/** Basic config file **/
+
+configuration {
+  show-icons: true;
+  icon-theme: "Papirus";
+  display-drun: "Applications:";
+  display-window: "Windows:";
+  drun-display-format: "{icon} {name}";
+  font: "JetBrainsMonoNL NF SemiBold";
+  modi: "window,drun";
+
+}
+@theme "themes/catppuccin-mocha.rasi"
+   
+  
